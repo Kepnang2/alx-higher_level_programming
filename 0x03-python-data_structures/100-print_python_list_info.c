@@ -20,3 +20,4 @@ void print_python_list_info(PyObject *p)
 			printf("Element %ld: %s\n", i, type->tp_name);
 		}
 	}
+}
